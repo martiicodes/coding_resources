@@ -1,1 +1,3 @@
-# coding_resources
+# Coding Resources
+
+Books, articles, scientific research papers.
